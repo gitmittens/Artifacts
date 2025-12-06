@@ -1,10 +1,7 @@
 {
     "pack": {
-        "pack_format": 57,
-        "supported_formats": {
-            "min_inclusive": 57,
-            "max_inclusive": 88
-        },
-        "description": "Made by cruelmittens | Craft useful artifacts"
+        "description": "Made by cruelmittens | Craft useful artifacts",
+        "min_format": 88,
+        "max_format": 88
     }
 }
