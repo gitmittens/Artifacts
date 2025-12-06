@@ -20,8 +20,16 @@ The Magnetic Shard is a magnet which can help with building and mining. It will 
 Yes. Go into your servers folders and go to `world -> datapacks` and put the datapack there. This datapack works multiplayer so play with however many people you would like!
 
 ## Support us!
-[![Join the discord](https://cdn.modrinth.com/data/cached_images/45d5fb56712347ed406fc3cc09bad51ec03e1c0c.png)](https://discord.gg/C2WymfUqJx)
+Join my Minecraft server **ZoneRush.minekeep.gg** for a unique PvP gamemode!
+
+---
+
+**Try my other datapack X-Hearts**
+
+[![X-Hearts](https://cdn.modrinth.com/data/cached_images/47d024c0826f31fb6f92364808533afcdef71474.jpeg)](https://modrinth.com/datapack/x-hearts)
+
+---
 
 **Join the discord to get updates, support me, and report issues**
 
-Join my Minecraft server **ZoneRush.minekeep.gg** for a unique PvP gamemode!
+[![Join the discord](https://cdn.modrinth.com/data/cached_images/45d5fb56712347ed406fc3cc09bad51ec03e1c0c.png)](https://discord.gg/C2WymfUqJx)
